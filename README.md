@@ -3,6 +3,7 @@
 ### 🔗 [My LinkedIn](https://www.linkedin.com/in/your-profile/)
 ### 📥 [Download the Tableau Workbook](https://github.com/M-Eltaquee/tableau-sales-customer-dashboard/blob/main/assets/SalesCustomer.twbx?raw=true)
 ### 📊 [View on Tableau Public](#)
+**📄 [Full Documentation](https://htmlpreview.github.io/?https://github.com/M-Eltaquee/tableau-sales-customer-dashboard/blob/main/PROJECT-DOCUMENTATION.html)**
 
 <br>
 <div align="center">
